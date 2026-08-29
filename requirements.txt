@@ -1,2 +1,4 @@
-ann.py
-requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
